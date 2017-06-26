@@ -1,2 +1,2 @@
-# Fizz-Buzz-Lab
-Fizz Buzz Lab for Andela Fellow Cohort X Bootcamp
+# Fizz-Buzz-Lab Test
+Fizz Buzz Lab Test
